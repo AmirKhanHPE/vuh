@@ -163,7 +163,7 @@ public class GLApp_DemoModel extends GLApp {
 
 
     public void speedOnDisplay(Object display) {
-        display.show = speed.text;
+        display.show = speed.value;
     }
 
 
