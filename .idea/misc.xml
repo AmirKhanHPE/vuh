@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="OctanePluginConnectionSettings" Url="https://mqast001pngx.saas.hpe.com" SharedSpace="2004" WorkSpace="33001" User="amir.khan@hpe.com" />
+  <component name="OctanePluginState" OPEN_TABS="{&quot;openDetailTabs&quot;:[{&quot;entityType&quot;:&quot;USER_STORY&quot;,&quot;entityName&quot;:&quot;01 - As a driver I want to see the actual speed being displayed directly in front of me.&quot;,&quot;id&quot;:166044}]}" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
