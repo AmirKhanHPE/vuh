@@ -164,6 +164,7 @@ public class GLApp_DemoModel extends GLApp {
 
     public void speedOnDisplay(Object display) {
         speed.visible = true;
+        speed.enabled = true;
         display.show = speed.value;
     }
 

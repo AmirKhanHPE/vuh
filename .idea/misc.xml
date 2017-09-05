@@ -8,7 +8,7 @@
     </option>
   </component>
   <component name="OctanePluginConnectionSettings" Url="https://mqast001pngx.saas.hpe.com" SharedSpace="2004" WorkSpace="33001" User="amir.khan@hpe.com" />
-  <component name="OctanePluginState" EXPECTED_COMMIT_MESSAGE="{&quot;value&quot;:&quot;user story #166044: 01 - As a driver I want to see the actual speed being displayed directly in front of me.&quot;}" OPEN_TABS="{&quot;openDetailTabs&quot;:[]}" ACTIVE_WORK_ITEM="{&quot;entityType&quot;:&quot;DEFECT&quot;,&quot;entityName&quot;:&quot;Speed is not displayed correctly&quot;,&quot;id&quot;:168003}" />
+  <component name="OctanePluginState" EXPECTED_COMMIT_MESSAGE="{&quot;value&quot;:&quot;defect #168003: Speed is not displayed correctly&quot;}" OPEN_TABS="{&quot;openDetailTabs&quot;:[]}" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
